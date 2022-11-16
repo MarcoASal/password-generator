@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background: #1F2937;
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+}
+
+.header{
+    margin-top: 100px;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+}
+
+.under-text{
+    font-size: 20px;
+    color: #D5D4D8;
+}
+.green-text{
+    color:#4ADF86;
+}
+button{
+    background: #10B981;
+    color: white;
+    padding: 10px 15px;
+    border: 0;
+    border-radius: 5px;
+
+}
+.fields{
+    display: flex;
+    justify-content: center;
+    gap:1em;
+    border-top: 1px solid #2F3E53;
+    color: #55F991;
+    margin: 20px;
+
+}
+#password-one{
+    background: #273549;
+    padding: 10px 15px;
+}
+#password-two{
+    background: #273549;
+    padding: 10px 15px;
+}
