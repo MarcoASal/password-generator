@@ -17,6 +17,6 @@ function generatePassword(){
     return randomPassword
 }
 function randomPassword(){
-passwordOne.textContent = generatePassword()
-passwordTwo.textContent = generatePassword() 
+    passwordOne.textContent = generatePassword()
+    passwordTwo.textContent = generatePassword() 
 }
